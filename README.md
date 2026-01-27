@@ -72,4 +72,3 @@ Bachelor of Engineering (IT) — **CGPA: 8.5/10**
 - 💼 LinkedIn: https://www.linkedin.com/in/tejaspatil1643b
 - 🧠 GitHub: https://github.com/Tejas164321
 
-> If you searched for **Tejas Patil GitHub**, you're in the right place 🚀
