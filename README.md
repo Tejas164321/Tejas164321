@@ -68,7 +68,7 @@ Bachelor of Engineering (IT) — **CGPA: 8.5/10**
 - Product & Innovation Challenge — Round 2
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: https://tejasfolio.vercel.app
+- 🌐 Portfolio: https://tejasfolio.in
 - 💼 LinkedIn: https://www.linkedin.com/in/tejaspatil1643b
 - 🧠 GitHub: https://github.com/Tejas164321
 
