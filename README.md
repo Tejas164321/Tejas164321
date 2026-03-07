@@ -18,9 +18,8 @@
 <br>
 
 <p align="center">
-  <img src="./banner.gif" width="900">
+  <video src="./banner.mp4" autoplay loop muted width="900"></video>
 </p>
-
 </details>
 
 ---
