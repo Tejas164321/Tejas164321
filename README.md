@@ -18,10 +18,10 @@
 <br>
 
 <p align="center">
-  <video src="./banner.mp4" autoplay loop muted width="900"></video>
+  <video src="banner.mp4" width="900" autoplay loop muted playsinline></video>
 </p>
-</details>
 
+</details>
 ---
 
 # 🚀 About Me
