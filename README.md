@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://tejasfolio.in">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/tejaspatil1643b">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/tejasin">💼 LinkedIn</a> •
   <a href="https://github.com/Tejas164321">🧠 GitHub</a>
 </p>
 
