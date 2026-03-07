@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <video src="./banner.mp4" autoplay loop muted width="900"></video>
+  <video src="https://raw.githubusercontent.com/Tejas164321/Tejas164321/main/banner.mp4" autoplay loop muted width="900"></video>
 </p>
 </details>
 
