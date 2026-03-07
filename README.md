@@ -1,4 +1,6 @@
-# Hi, I'm Tejas Patil 👋
+<p align="center">
+  <h1 align="center">Hi, I'm Tejas Patil 👋</h1>
+</p>
 
 <p align="center">
 <b>Aspiring Software Engineer • Full-Stack Developer • AI Systems Builder</b>
@@ -18,10 +20,11 @@
 <br>
 
 <p align="center">
-  <video src="banner.mp4" width="900" autoplay loop muted playsinline></video>
+  <img src="banner.gif" width="900">
 </p>
 
 </details>
+
 ---
 
 # 🚀 About Me
