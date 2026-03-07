@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <video src="./banner.mp4" autoplay loop muted width="900"></video>
+  <img src="./banner.gif" alt="Tejas Patil - Animated coding banner" width="900">
 </p>
 </details>
 
