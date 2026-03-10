@@ -1,21 +1,20 @@
 <p align="center">
-  <h1 align="center">Hi, I'm Tejas Patil 👋</h1>
+  <h1 align="center">Tejas Patil</h1>
+  <p align="center">
+    Software Engineer • Full-Stack Developer • AI Systems Builder
+  </p>
 </p>
 
 <p align="center">
-<b>Aspiring Software Engineer • Full-Stack Developer • AI Systems Builder</b>
-</p>
-
-<p align="center">
-  <a href="https://tejasfolio.in">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/tejasin">💼 LinkedIn</a> •
-  <a href="https://github.com/Tejas164321">🧠 GitHub</a>
+  <a href="https://tejasfolio.in">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/tejaspatil1643b">LinkedIn</a> •
+  <a href="https://github.com/Tejas164321">GitHub</a>
 </p>
 
 ---
 
 <details>
-<summary align="center">🌌 Enter my coding dimension</summary>
+<summary align="center"><strong>Enter my coding dimension</strong></summary>
 
 <br>
 
@@ -27,136 +26,144 @@
 
 ---
 
-# 🚀 About Me
+## About
 
-* 🎓 Final-year **BE IT student** from **Pune, India (SPPU)**
-* 💻 **Full-stack & mobile developer** (Web + Android + iOS)
-* 🤖 Building intelligent systems using **LLMs, LangChain, and Generative AI**
-* 🧠 Passionate about **production-grade engineering, scalable systems & automation**
+Final-year **Information Technology engineering student** from **Pune, India (Savitribai Phule Pune University)** with strong experience in **full-stack development, distributed systems, and AI-driven applications**.
+
+I focus on building **production-grade systems**, designing scalable architectures, and integrating **modern AI capabilities into real-world products**.
+
+Current interests include:
+
+* Full-stack web and mobile development
+* AI systems using LLMs and NLP
+* Scalable backend architecture
+* Automation and developer tooling
 
 ---
 
-# 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages
 
-`Python` `Java` `JavaScript` `HTML` `CSS`
+Python • Java • JavaScript • HTML • CSS
 
 ### Frontend
 
-`React.js` `Next.js` `React Native`
+React.js • Next.js • React Native
 
 ### Backend
 
-`Node.js` `Express.js`
+Node.js • Express.js
 
 ### Databases
 
-`MongoDB` `MySQL` `Firebase`
+MongoDB • MySQL • Firebase
 
 ### AI / ML
 
-`NLP` `LLMs` `Generative AI` `Hugging Face` `LangChain` `Agentic AI`
+Natural Language Processing • Large Language Models • Generative AI • Hugging Face • LangChain • Agentic AI
 
 ### Tools
 
-`Git` `Docker` `Postman` `GitHub Actions` `JavaFX` `n8n`
+Git • Docker • Postman • GitHub Actions • JavaFX • n8n
 
 ---
 
-# 💼 Experience
+## Professional Experience
 
-### Software Developer Intern — Delxn Technologies (2025)
+### Software Developer Intern
 
-* Worked onsite on Dubai-based construction system **SkyStruct V2 Lite**
-* Contributed to **production deployments and real-world feature modules**
-* Collaborated with senior engineers on scalable architecture
+**Delxn Technologies — 2025**
 
----
-
-### React.js Developer Intern — Celebal Technologies (May 2025 – Jul 2025)
-
-* Built **Quora/Spotify-style interfaces** using reusable React components
-* Integrated REST APIs and optimized UI performance
-* Delivered responsive UI components in **Agile sprints**
+* Worked onsite on **SkyStruct V2 Lite**, a Dubai-based construction management system
+* Contributed to **production deployments and feature modules**
+* Collaborated with senior engineers on **scalable architecture improvements**
 
 ---
 
-### MERN Stack Intern — EY GDS & Edunet Foundation (Feb 2025 – Mar 2025)
+### React.js Developer Intern
 
-* Built a production **Expense Manager used by 100+ users**
-* Implemented **JWT authentication and RBAC**
-* Reduced backend response time by **~30%**
+**Celebal Technologies — May 2025 – Jul 2025**
 
----
-
-# 🧩 Projects
-
-## 🥛 Dairy Nine — Supply Chain Automation System
-
-**Next.js • React Native • Node.js • MongoDB • Firebase**
-
-* Live real-world freelance system for dairy supply chain automation
-* Multi-role dashboards (**Producer, Vendor, Retailer, Customer**)
-* Phone-camera **barcode scanning for billing & stock automation**
+* Built modern **Quora- and Spotify-style interfaces** using reusable React components
+* Integrated REST APIs and optimized **UI performance and responsiveness**
+* Delivered production-ready components in **Agile development sprints**
 
 ---
 
-## 🤖 AI Recruiter — Intelligent Talent Engine
+### MERN Stack Developer Intern
 
-**Next.js • Firebase • Gemini NLP**
+**EY GDS & Edunet Foundation — Feb 2025 – Mar 2025**
 
-* Gemini-powered **resume analysis with multilingual semantic scoring**
-* Secure role-based access using Firestore rules
-* Reduced screening effort by **~70% using GenAI**
-
----
-
-## 💸 FinPal — UPI-Based Expense Analyzer
-
-**MERN • AI • PDF/CSV Parsing**
-
-* Processed **1000+ transactions** from PhonePe, GPay & bank statements
-* AI-based **expense categorization engine**
-* Mobile-first budgeting dashboard
+* Developed a production **Expense Manager used by 100+ users**
+* Implemented **JWT authentication and role-based access control**
+* Optimized backend logic and reduced response time by **~30%**
 
 ---
 
-## 🍽️ MyDinner — Mess Operations Platform
+## Selected Projects
 
-**Next.js • Kotlin • Firebase**
+### Dairy Nine — Supply Chain Automation Platform *(Freelance Project)*
 
-* Billing, attendance, and meal tracking system
-* Kotlin Android app for **real-time attendance & bill access**
-* Implemented **RBAC and automation workflows**
+Next.js • React Native • Node.js • MongoDB • Firebase
+
+* Built a **freelance production system** for automating dairy supply chain operations
+* Developed multi-role dashboards for **Producer, Vendor, Retailer, and Customer**
+* Implemented **barcode-based billing and inventory automation** using phone camera scanning
+* Designed scalable backend APIs and **role-based workflows**
 
 ---
 
-# 🎓 Education
+### AI Recruiter — Intelligent Talent Engine
+
+Next.js • Firebase • Gemini NLP
+
+* Developed an **AI-powered resume analysis and semantic candidate scoring system**
+* Integrated **Gemini NLP** for multilingual candidate evaluation
+* Implemented **secure role-based access** using Firestore rules
+
+---
+
+### FinPal — AI-Driven Expense Analyzer
+
+MERN • AI • PDF/CSV Parsing
+
+* Processed **1000+ financial transactions** from PhonePe, GPay, and bank statements
+* Built an **AI-based expense classification engine**
+* Developed a **mobile-first financial insights dashboard**
+
+---
+
+### MyDinner — Mess Operations Management Platform
+
+Next.js • Kotlin • Firebase
+
+* Developed a **meal tracking, billing, and attendance system**
+* Built a Kotlin Android app for **real-time attendance and bill access**
+* Implemented **role-based access control and automated workflows**
+
+---
+
+## Education
 
 **Savitribai Phule Pune University (SPPU)**
 Bachelor of Engineering — Information Technology
 
-**CGPA:** 8.5 / 10
+CGPA: **8.9 / 10**
 
 ---
 
-# 🏆 Certifications
+## Certifications
 
 * Python for Data Science — IBM (Coursera)
 * Generative AI for Data Science — Microsoft
-* AI Azure Internship — Microsoft / AICTE / Edunet
+* Azure AI Internship — Microsoft / AICTE / Edunet
 * Product & Innovation Challenge — Round 2
 
 ---
 
-# 🔗 Connect With Me
+## Contact
 
-🌐 Portfolio
-https://tejasfolio.in
-
-💼 LinkedIn
-https://www.linkedin.com/in/tejaspatil1643b
-
-🧠 GitHub
-https://github.com/Tejas164321
+Portfolio: https://tejasfolio.in
+LinkedIn: https://www.linkedin.com/in/tejaspatil1643b
+GitHub: https://github.com/Tejas164321
