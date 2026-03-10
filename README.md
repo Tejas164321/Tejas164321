@@ -1,13 +1,16 @@
 <p align="center">
-  <h1 align="center">Tejas Patil</h1>
-  <p align="center">
-    Software Engineer • Full-Stack Developer • AI Systems Builder
-  </p>
+
+# Tejas Patil
+
+### Software Engineer • Full-Stack Developer • AI Systems Builder
+
+Portfolio • LinkedIn • GitHub
+
 </p>
 
 <p align="center">
-  <a href="https://tejasfolio.in">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/tejaspatil1643b">LinkedIn</a> •
+  <a href="https://tejasfolio.in">Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tejasin">LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/Tejas164321">GitHub</a>
 </p>
 
@@ -43,29 +46,25 @@ Current interests include:
 
 ## Technical Skills
 
-### Languages
+**Languages**
 
-Python • Java • JavaScript • HTML • CSS
+`Python` `Java` `JavaScript` `HTML` `CSS`
 
-### Frontend
+**Frameworks**
 
-React.js • Next.js • React Native
+`React.js` `Next.js` `React Native` `Node.js` `Express.js`
 
-### Backend
+**Databases**
 
-Node.js • Express.js
+`MongoDB` `MySQL` `Firebase`
 
-### Databases
+**AI / ML**
 
-MongoDB • MySQL • Firebase
+`Natural Language Processing` `Large Language Models` `Generative AI` `Hugging Face` `LangChain` `Agentic AI`
 
-### AI / ML
+**Tools**
 
-Natural Language Processing • Large Language Models • Generative AI • Hugging Face • LangChain • Agentic AI
-
-### Tools
-
-Git • Docker • Postman • GitHub Actions • JavaFX • n8n
+`Git` `Docker` `Postman` `GitHub Actions` `JavaFX` `n8n`
 
 ---
 
@@ -164,6 +163,11 @@ CGPA: **8.9 / 10**
 
 ## Contact
 
-Portfolio: https://tejasfolio.in
-LinkedIn: https://www.linkedin.com/in/tejaspatil1643b
-GitHub: https://github.com/Tejas164321
+Portfolio
+https://tejasfolio.in
+
+LinkedIn
+https://www.linkedin.com/in/tejasin
+
+GitHub
+https://github.com/Tejas164321
