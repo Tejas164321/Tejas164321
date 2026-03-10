@@ -1,17 +1,18 @@
-<p align="center">
+<div align="center">
 
-# Tejas Patil
+<h1>Tejas Patil</h1>
 
-### Software Engineer • Full-Stack Developer • AI Systems Builder
+<h3>Software Engineer • Full-Stack Developer • AI Systems Builder</h3>
 
-
+<p>
+<a href="https://tejasfolio.in">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tejasin">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Tejas164321">GitHub</a>
 </p>
 
-<p align="center">
-  <a href="https://tejasfolio.in">Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tejasin">LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Tejas164321">GitHub</a>
-</p>
+</div>
 
 ---
 
