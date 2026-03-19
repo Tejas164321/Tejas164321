@@ -60,7 +60,7 @@ Current interests include:
 
 **AI / ML**
 
-`Natural Language Processing` `Large Language Models` `Generative AI` `Hugging Face` `LangChain` `Agentic AI`
+`Natural Language Processing` `Large Language Models` `RAG` `Generative AI` `Hugging Face` `LangChain` `Agentic AI`
 
 **Tools**
 
