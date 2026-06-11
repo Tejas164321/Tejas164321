@@ -56,7 +56,7 @@ Current interests include:
 
 **Databases**
 
-`MongoDB` `MySQL` `Firebase`
+`MongoDB` `MySQL` `Firebase` `VectorDB`
 
 **AI / ML**
 
