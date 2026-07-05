@@ -54,9 +54,9 @@ Current interests include:
 
 `React.js` `Next.js` `React Native` `Node.js` `Express.js`
 
-**Databases**
+**Databases & Storage**
 
-`MongoDB` `MySQL` `Firebase` `VectorDB`
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Firebase` `VectorDB`
 
 **AI / ML**
 
