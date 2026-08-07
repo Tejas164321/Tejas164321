@@ -16,16 +16,9 @@
 
 ---
 
-<details>
-<summary align="center"><strong>Enter my coding dimension</strong></summary>
-
-<br>
-
 <p align="center">
   <img src="banner.gif" width="900">
 </p>
-
-</details>
 
 ---
 
