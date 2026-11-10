@@ -83,15 +83,6 @@ I don't just build prototypes. I build **production-grade products** that real u
 
 ---
 
-### MERN Stack Developer Intern
-
-**EY GDS & Edunet Foundation | Feb 2025 – Mar 2025**
-
-* Developed an **Expense Manager** used by **100+ users**
-* Implemented **JWT authentication and role-based access control**
-* Optimized backend logic, reducing response time by **~30%**
-
----
 
 <p align="center">
 Explore my repositories below to see what I've been building.
